@@ -1,0 +1,11 @@
+# 프로젝트 이름 (Project Title)
+> 1D-CNN 기반 다채널 IMU 센서 데이터의 잠재 특징 추출을 통한 뇌졸중 보행 패턴 분류 연구/ 김한세, 임민식, 김동현
+
+## 🚀 시작하기 (Getting Started)
+이 프로젝트를 로컬에서 실행하기 위한 단계입니다.
+
+### 설치 및 실행
+1. 저장소 클론
+   ```bash
+   git clone [https://github.com/username/project-name.git](https://github.com/username/project-name.git)
+
